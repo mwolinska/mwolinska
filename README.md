@@ -1,8 +1,4 @@
 ![hello_banner](./Images/hello_world_3.png)
-<p align="center">
-    <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&amp;logo=LinkedIn&amp;logoColor=white"/>
-    <href="https://linkedin.com/marta-wolinska/">
-</p>
 
 ## Profile
 
@@ -12,6 +8,12 @@ I previously worked as a consultant in Financial Services (ex-[EY](https://www.e
 I'm starting my journey into the world of AI by upskilling in computer science, currently learning python. I will be joining the class of 2023 at Imperial College to complete an MSc in Artificial Intelligence starting October 2022. 
 
 In my repo currently you'll find my toy projects to help me on my journey. I hope you'll enjoy them.
+
+<p align="center">
+    <a href="https://www.linkedin.com/in/marta-wolinska/">
+    <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&amp;logo=LinkedIn&amp;logoColor=white" />
+    </a>
+</p>
 
 ## Current Stats
 
