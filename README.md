@@ -21,7 +21,14 @@ I'm starting my journey into the world of AI by upskilling in computer science, 
     </a>
 </p>
 
+## Stack
+<p align="center">
+    <img align="center" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" >
+    <img align="center" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" >
+    <img align="center" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" >
+    <img align="center" src="https://img.shields.io/badge/circleci-343434?style=for-the-badge&logo=circleci&logoColor=white" >
 
+</p>
 
 <!---[![Marta's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mwolinska&theme=vue-dark&show_icons=true)](https://github.com/mwolinska/github-readme-stats)--->
 
