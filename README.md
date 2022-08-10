@@ -1,4 +1,4 @@
-![hello_banner](./Images/banner_nord_bright.png)
+![hello_banner](./Images/banner_nord_gray_side.png)
 
 ## Profile
 
