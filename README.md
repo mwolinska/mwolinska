@@ -1,13 +1,11 @@
-![hello_banner](./Images/hello_world_3.png)
+![hello_banner](./Images/banner_nord_bright.png)
 
 ## Profile
 
 I'm a Materials Engineer from [Imperial College](https://www.imperial.ac.uk) and 
 I previously worked as a consultant in Financial Services (ex-[EY](https://www.ey.com/en_gl)). 
 
-I'm starting my journey into the world of AI by upskilling in computer science, currently learning python. I will be joining the class of 2023 at Imperial College to complete an MSc in Artificial Intelligence starting October 2022. 
-
-In my repo currently you'll find my toy projects to help me on my journey. I hope you'll enjoy them.
+I'm starting my journey into the world of AI by upskilling in computer science, currently learning python. I will be joining the class of 2023 at Imperial College to complete an MSc in Artificial Intelligence starting October 2022.
 
 <p align="center">
     <a href="https://www.linkedin.com/in/marta-wolinska/">
@@ -19,7 +17,7 @@ In my repo currently you'll find my toy projects to help me on my journey. I hop
 
 <p align="center">
     <a href="https://github.com/mwolinska/">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mwolinska&hide=stars,contribs&theme=swift&show_icons=true" >
+        <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mwolinska&theme=nord_bright" >
     </a>
 </p>
 
