@@ -1,4 +1,9 @@
 ![hello_banner](./Images/banner_nord_gray_side.png)
+<p align="center">
+    <a href="https://www.linkedin.com/in/marta-wolinska/">
+    <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&amp;logo=LinkedIn&amp;logoColor=white" />
+    </a>
+</p>
 
 ## Profile
 
@@ -7,11 +12,11 @@ I previously worked as a consultant in Financial Services (ex-[EY](https://www.e
 
 I'm starting my journey into the world of AI by upskilling in computer science, currently learning python. I will be joining the class of 2023 at Imperial College to complete an MSc in Artificial Intelligence starting October 2022.
 
-<p align="center">
-    <a href="https://www.linkedin.com/in/marta-wolinska/">
-    <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&amp;logo=LinkedIn&amp;logoColor=white" />
-    </a>
-</p>
+[//]: # (I previously worked as a consultant in Financial Services &#40;ex-[EY]&#40;https://www.ey.com/en_gl&#41;&#41;. )
+
+[//]: # ()
+[//]: # (I'm starting my journey into the world of AI by upskilling in computer science, currently learning python. I will be joining the class of 2023 at Imperial College to complete an MSc in Artificial Intelligence starting October 2022.)
+
 
 ## Stack
 <p align="center">
