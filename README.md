@@ -7,10 +7,12 @@
 
 ## Profile
 
-I'm a Materials Engineer from [Imperial College](https://www.imperial.ac.uk) and 
-I previously worked as a consultant in Financial Services (ex-[EY](https://www.ey.com/en_gl)). 
+* :woman_technologist: MSc in Artificial Intelligence at [Imperial College](https://www.imperial.ac.uk) graduating October 2023
+* :woman_scientist: MEng Materials Science at [Imperial College](https://www.imperial.ac.uk)
+* :woman_office_worker: (ex-[EY](https://www.ey.com/en_gl)) Consultant in Financial Services
+* :speaking_head: Languages: :gb: :poland: :fr: :it: :snake:
 
-I'm starting my journey into the world of AI by upskilling in computer science, currently learning python. I will be joining the class of 2023 at Imperial College to complete an MSc in Artificial Intelligence starting October 2022.
+[//]: # (I'm a Materials Engineer from [Imperial College]&#40;https://www.imperial.ac.uk&#41; and )
 
 [//]: # (I previously worked as a consultant in Financial Services &#40;ex-[EY]&#40;https://www.ey.com/en_gl&#41;&#41;. )
 
