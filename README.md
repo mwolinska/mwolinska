@@ -7,10 +7,10 @@
 
 ## Profile
 
-* :woman_technologist: MSc in Artificial Intelligence at [Imperial College](https://www.imperial.ac.uk) graduating October 2023
-* :woman_scientist: MEng Materials Science at [Imperial College](https://www.imperial.ac.uk)
-* :woman_office_worker: ex-[EY](https://www.ey.com/en_gl) Consultant in Financial Services
-* :speaking_head: :gb: :poland: :fr: :it: :snake:
+* MSc in Artificial Intelligence at [Imperial College](https://www.imperial.ac.uk) graduating October 2023
+* MEng Materials Science at [Imperial College](https://www.imperial.ac.uk) 
+* ex-[EY](https://www.ey.com/en_gl) Consultant in Financial Services
+* Languages::gb: :poland: :fr: :it: :snake:
 
 [//]: # (I'm a Materials Engineer from [Imperial College]&#40;https://www.imperial.ac.uk&#41; and )
 
