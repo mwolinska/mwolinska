@@ -10,7 +10,7 @@
 * MSc in Artificial Intelligence at [Imperial College](https://www.imperial.ac.uk) graduating October 2023
 * MEng Materials Science at [Imperial College](https://www.imperial.ac.uk) 
 * ex-[EY](https://www.ey.com/en_gl) Consultant in Financial Services
-* Languages::gb: :poland: :fr: :it: :snake:
+* Languages: :gb: :poland: :fr: :it: :snake:
 
 [//]: # (I'm a Materials Engineer from [Imperial College]&#40;https://www.imperial.ac.uk&#41; and )
 
@@ -29,12 +29,11 @@
 
 </p>
 
-
 ## Current Stats
 
 <p align="center">
     <a href="https://github.com/mwolinska/">
-        <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mwolinska&theme=nord_bright" >
+        <img align="center" height="100" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mwolinska&theme=nord_bright" >
     </a>
 </p>
 
