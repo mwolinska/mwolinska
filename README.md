@@ -1,4 +1,4 @@
-![hello_banner](./Images/banner_nord_gray_side.png)
+![hello_banner](./Images/msc_banner.png)
 <p align="center">
     <a href="https://www.linkedin.com/in/marta-wolinska/">
     <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&amp;logo=LinkedIn&amp;logoColor=white" />
