@@ -7,7 +7,7 @@
 
 ## Profile
 
-* MSc in Artificial Intelligence at [Imperial College](https://www.imperial.ac.uk) graduating October 2023
+* MSc in Artificial Intelligence at [Imperial College](https://www.imperial.ac.uk)
 * MEng Materials Science at [Imperial College](https://www.imperial.ac.uk) 
 * ex-[EY](https://www.ey.com/en_gl) Consultant in Financial Services
 * Languages: :gb: :poland: :fr: :it: :snake:
